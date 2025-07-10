@@ -11,4 +11,4 @@ Besides using Next.js capabilities to implement this dashboard, I have included 
 - **TypeScript** for type safety
 - **Shadcn UI**
 
-You can watch a live version of this project by clicking [here]()
+You can watch a live version of this project by clicking [here](https://admin-dashboard-with-next-js-shadcn.vercel.app)
